@@ -1,0 +1,3 @@
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Debug/netcoreapp2.1/DataLayer.AssemblyInfo.cs

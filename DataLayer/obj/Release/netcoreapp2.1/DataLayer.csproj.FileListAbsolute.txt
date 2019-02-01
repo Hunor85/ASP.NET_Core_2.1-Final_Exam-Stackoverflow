@@ -1,0 +1,12 @@
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/bin/Release/netcoreapp2.1/DataLayer.deps.json
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/bin/Release/netcoreapp2.1/DataLayer.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/bin/Release/netcoreapp2.1/DataLayer.pdb
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/bin/Release/netcoreapp2.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/bin/Release/netcoreapp2.1/Microsoft.Extensions.Identity.Stores.xml
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.csproj.CopyComplete
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/DataLayer/obj/Release/netcoreapp2.1/DataLayer.pdb

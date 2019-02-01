@@ -1,0 +1,48 @@
+<div class="question">
+
+    <div data-bind="with: currentPostComment">
+        <div><button type="button" class="mt-1 btn btn-info" data-bind="click: $parent.back">Back</button></div>
+        <div><button data-bind="click: $parent.back">Back</button></div>
+        <br />
+
+        <div class="card-body">
+            <button class="btn btn-success" data-bind="click: $parent.addAnnotation">Add</button>
+        </div>
+        
+        <h1 data-bind="text: title"></h1>
+        <h3>Date: <span data-bind="text: creationDate"></span></h3>
+        <h3>Score: <span data-bind="text: score"></span></h3>
+        <div data-bind="html: body"></div>
+        <h3>Comments</h3>
+        <div data-bind="foreach: comments.items">
+            <div style="background: lightgrey; margin: 20px; border: 1px solid black">
+                <h4>Date: <span data-bind="text: creationDate"></span></h4>
+                <h4>Score: <span data-bind="text: score"></span></h4>
+                <div data-bind="html: body"></div>
+            </div>
+        </div>
+    </div>
+    <div data-bind="with: currentPostAnswer">
+
+        <div data-bind="if: $parent.hasAnswers">
+
+            <div><button type="button" class="btn btn-info" data-bind="click: $parent.back">Back</button></div>
+            <h3>Answers:</h3>
+            <div data-bind="foreach: answers">
+                <div style="background: lightgrey; margin: 20px; border: 1px solid black">
+                    <h4>Date: <span data-bind="text: creationDate"></span></h4>
+                    <h4>Score: <span data-bind="text: score"></span></h4>
+                    <div data-bind="html: body"></div>
+                </div>
+            </div>
+        </div>
+
+        <div><button type="button" class="mb-1 btn btn-info" data-bind="click: $parent.back">Back</button></div>
+
+
+
+
+    </div>
+
+
+</div>

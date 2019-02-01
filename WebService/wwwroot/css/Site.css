@@ -1,0 +1,22 @@
+﻿
+a {
+    cursor: pointer;
+
+}
+
+
+
+.btn btn-info {
+    padding: 5px;
+    margin: 5px;
+}
+
+.navbar-expand-lg {
+    border: 1px solid black;
+    background-color: #f7eaec;
+}
+
+
+body {
+    background-color: #f7eaec;
+}

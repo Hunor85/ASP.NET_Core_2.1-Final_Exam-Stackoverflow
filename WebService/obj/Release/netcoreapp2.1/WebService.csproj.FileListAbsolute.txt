@@ -1,0 +1,17 @@
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/WebService.deps.json
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/WebService.runtimeconfig.json
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/WebService.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/WebService.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/WebService.pdb
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/DataLayer.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/bin/Release/netcoreapp2.1/DataLayer.pdb
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.RazorAssemblyInfo.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.RazorAssemblyInfo.cs
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.RazorTargetAssemblyInfo.cache
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.csproj.CopyComplete
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.dll
+/Users/hunorvadasz-perhat/GitHub/Portfolio_prt3/WebService/obj/Release/netcoreapp2.1/WebService.pdb

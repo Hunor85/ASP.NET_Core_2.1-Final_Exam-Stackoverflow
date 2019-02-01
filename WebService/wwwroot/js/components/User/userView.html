@@ -1,0 +1,63 @@
+﻿<div class="userPage">
+
+    <h1>My Page</h1>
+
+    <h3>Welcome: <span data-bind="text: userName"></span></h3>
+
+    <h3>Annotations:</h3> 
+    <div data-bind="foreach : annotationInfo">
+        <div style="background: lightgrey; margin: 20px; border: 1px solid black">
+
+            <div>
+                <div>
+                    <div>
+                        <!--<a href="" data-bind="click: $parent.showPost">-->
+                        <h5>Link:</h5><a data-bind="text: link"></a>
+                        <h6>Creation Date:<span data-bind="text: creationDate"></span></h6>
+                        <div data-bind="text: body"></div>
+
+                        <!--</a>-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <h3>Search History:</h3>
+    
+    <div data-bind="foreach : searchInfo">
+        <div style="background: lightgrey; margin: 20px; border: 1px solid black">
+
+            <div>
+                <div>
+                    <div>
+                        <!--<a href="" data-bind="click: $parent.showPost">-->
+                        <h4>Search History:</h4>
+                        <h6>Search Date: <span data-bind="text: date"></span></h6>
+                        <div data-bind="text: search"></div>
+
+                        <!--</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h3> Marks:</h3>
+    <div data-bind="foreach : markInfo">
+        <div style="background: lightgrey; margin: 20px; border: 1px solid black">
+
+            <div>
+                <div>
+                    <div>
+                        <!--<a href="" data-bind="click: $parent.showPost">-->
+                        <h5>Link:</h5><a data-bind="text: link"></a>
+                        <h6>Creation Date: <span data-bind="text: creationDate"></span></h6>
+                        <!--</a>-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
