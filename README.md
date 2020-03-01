@@ -1,4 +1,6 @@
-# RAWDATA Project Portfolio
+# RUC 2018 2nd Semester Autumn
+## RAWDATA Computer Science master course Project Portfolio
+
 Stack Overflow Viewer Application for the course of RAWDATA from Computer Science degree at Roskilde University. 
 
 ## Core Functionality
